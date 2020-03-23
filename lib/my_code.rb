@@ -16,7 +16,7 @@ def reduce(array, int = 0)
   total = int
   
   index = 0
-  while index < array.length - 1 do
+  while index < array.length do
     yield(array[index])
     index += 1
   end
