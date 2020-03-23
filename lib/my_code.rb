@@ -14,7 +14,11 @@ end
 
 def reduce(array, int = 0)
   
-
+  index = 0
+  while index < array.length do
+    
+    index += 1
+  end
 
 
 end
