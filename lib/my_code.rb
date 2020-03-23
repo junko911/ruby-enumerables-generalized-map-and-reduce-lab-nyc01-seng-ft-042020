@@ -13,6 +13,7 @@ end
 
 
 def reduce(array, int = nil)
+  total = nil
   
   if int
     total = int
