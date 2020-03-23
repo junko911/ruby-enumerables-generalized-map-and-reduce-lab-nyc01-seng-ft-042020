@@ -24,5 +24,6 @@ def reduce(array, int = 0)
   total
 end
 
+# {|memo, n| memo || n}
 # source_array = [ false, nil, nil, nil, true]
 
