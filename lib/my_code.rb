@@ -23,3 +23,6 @@ def reduce(array, int = 0)
 
   total
 end
+
+# source_array = [ false, nil, nil, nil, true]
+
