@@ -12,7 +12,7 @@ def map(array)
 end
 
 
-def reduce(array, int = false)
+def reduce(array, int = 0)
   total = int
   
   index = 0
