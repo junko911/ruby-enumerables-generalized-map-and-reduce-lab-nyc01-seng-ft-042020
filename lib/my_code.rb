@@ -13,7 +13,7 @@ end
 
 
 def reduce(array)
-  total = 
+  total = false
   
   index = 0
   while index < array.length do
