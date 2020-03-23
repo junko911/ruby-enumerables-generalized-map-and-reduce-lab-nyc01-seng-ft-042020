@@ -13,10 +13,11 @@ end
 
 
 def reduce(array, int = nil)
-  total = nil
   
   if int
     total = int
+  else
+    total = array[0]
   end
   
   index = 0
