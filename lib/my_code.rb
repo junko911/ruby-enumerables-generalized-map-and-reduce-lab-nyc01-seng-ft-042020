@@ -12,8 +12,8 @@ def map(array)
 end
 
 
-def reduce(array)
-  total = false
+def reduce(array, int = 0)
+  total = int
   
   index = 0
   while index < array.length do
